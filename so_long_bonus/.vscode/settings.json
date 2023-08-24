@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "so_long_bonus.h": "c",
+        "fcntl.h": "c",
+        "mlx.h": "c",
+        "mlx_int.h": "c",
+        "get_next_line.h": "c",
+        "libft.h": "c"
+    }
+}
